@@ -5,7 +5,7 @@
   
 *The final product is an interactive Tableau dashboard (linked below) that allows users to gain insights by analyzing stock trends and patterns.*  
   
-## **Project Workflow**
+## ***Project Workflow***
 1. **Data Collection** - Raw stock market data collected (via Kaggle) and stored in CSV files
 2. **Data Cleaning & Preprocessing** - Used pandas to restructure data, add new columns, and perform calculations
 3. **Exploratory Data Analysis** (EDA) 
