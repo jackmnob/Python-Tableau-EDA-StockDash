@@ -12,4 +12,5 @@
 4. **Extracted, Transformed, and Loaded (ETL)** - transformed data from JupyterLab to CSV files for loading into the Tableau environment
 5. **Tableau Dashboard** - Created an interactive dashboard using joins, calculated fields and visual design techniques to highlight key insights on company performances
 
-**Interactive Dashboard Link: ____________**
+## **Interactive Dashboard Link:**  
+Tableau Dashboard: *_____________*
