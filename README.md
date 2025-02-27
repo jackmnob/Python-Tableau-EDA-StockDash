@@ -1,7 +1,7 @@
 # **Leveraging Python & Pandas for a Tableau Stock Market Dashboard**  
   
 ## ***Project Overview***
-*This project involves using Python and pandas to prepare and clean stock market data for visualization in Tableau.*  
+*This project involves using Python and pandas to prepare and clean stock market data for further visualization via Tableau.*  
   
 *The final product is an interactive Tableau dashboard (linked below) that allows users to gain insights by analyzing stock trends and patterns.*  
   
