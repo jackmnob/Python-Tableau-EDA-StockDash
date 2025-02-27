@@ -13,4 +13,4 @@
 5. **Tableau Dashboard** - Created an interactive dashboard using joins, calculated fields and visual design techniques to highlight key insights on company performances
 
 ## ***Interactive Dashboard Link:***  
-Tableau Dashboard: *[link here](https://public.tableau.com/app/profile/jack3951/viz/TopStocksAnalysisPythonpandas/Dashboard1)*
+**Tableau Dashboard: *[link here](https://public.tableau.com/app/profile/jack3951/viz/TopStocksAnalysisPythonpandas/Dashboard1)***
